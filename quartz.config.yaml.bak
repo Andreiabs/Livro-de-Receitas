@@ -1,45 +1,43 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: "🍲 Livro de Receitas"
+  pageTitleSuffix: " | Andreia"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: pt-PT
   baseUrl: Andreiabs.github.io/Livro-de-Receitas
   ignorePatterns:
     - private
     - templates
     - .obsidian
   theme:
-    fontOrigin: googleFonts
+    fontOrigin: "googleFonts"
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: "Lora"
+      body: "Inter"
+      code: "IBM Plex Mono"
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#faf9f6"
+        lightgray: "#e5e7eb"
+        gray: "#9ca3af"
+        darkgray: "#374151"
+        dark: "#1b4332"
+        secondary: "#2d6a4f"
+        tertiary: "#52b788"
+        highlight: "rgba(82, 183, 136, 0.15)"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#121814"
+        lightgray: "#223028"
+        gray: "#6b7280"
+        darkgray: "#d1d5db"
+        dark: "#74c69d"
+        secondary: "#52b788"
+        tertiary: "#95d5b2"
+        highlight: "rgba(82, 183, 136, 0.2)"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -220,8 +218,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/Andreiabs/Livro-de-Receitas
     layout:
       position: footer
       priority: 50
@@ -263,21 +260,27 @@ layout:
       direction: row
       gap: 0.5rem
   byPageType:
-    "404":
+    404:
+      pages:
+        - "404"
       positions:
-        beforeBody: []
-        left: []
+        left:
+          - page-title
+          - search
+          - darkmode
+        beforeBody:
+          - article-title
         right: []
-    content: {}
+        afterBody: []
+        footer:
+          - footer
+    content:
+      pages: []
     folder:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
+      pages: []
     tag:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    canvas: {}
-    bases: {}
+      pages: []
+    canvas:
+      pages: []
+    bases:
+      pages: []
