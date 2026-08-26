@@ -27,3 +27,5 @@ Bem-vindo ao meu caderno digital de receitas! Escolha uma categoria abaixo para 
 * [[Marinada de Sriracha e Limão]]
 
 ---
+
+[[tags/|Explorar todas as receitas por ingrediente/etiqueta]]

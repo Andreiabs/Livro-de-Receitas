@@ -1,5 +1,4 @@
 ---
-kaper: r_hc7VCXx887
 fonte: Eat the Bite
 tags:
   - marinada
