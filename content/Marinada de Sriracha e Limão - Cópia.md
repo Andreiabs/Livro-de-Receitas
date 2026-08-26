@@ -1,4 +1,5 @@
 ---
+kaper: r_hc7VCXx887
 fonte: Eat the Bite
 tags:
   - marinada
@@ -23,3 +24,12 @@ teste
 2. Reserve um pouco da marinada para pincelar o frango depois de cozido.
 3. Coloque o frango numa tigela grande e massage a restante marinada.
 4. Cubra o frango com uma tampa ou película aderente. Deixe marinar durante 3 horas durante a noite.
+
+```kaper
+title: Marinada de Sriracha e Limão - Cópia
+servings: 2
+ingredients:
+  main: []
+steps: []
+version: 1
+```
