@@ -28,4 +28,4 @@ Bem-vindo ao meu caderno digital de receitas! Escolha uma categoria abaixo para 
 
 ---
 
-[[tags/|Explorar todas as receitas por ingrediente/etiqueta]]
+[[tags/|Receitas por etiqueta]]
