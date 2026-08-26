@@ -2,18 +2,28 @@
 tags:
   - receita
   - molho
-fonte: "[Fork Knife Swoon](https://www.forkknifeswoon.com/quick-roasted-cherry-tomato-sauce/))"
-foto: https://www.forkknifeswoon.com/wp-content/uploads/2014/09/20140905-Fork_Knife_Swoon_Roasted_Cherry_Tomato_Sauce_WEB_01b-605x847.jpg
+  - i/tomate
+  - i/azeite
+  - i/cebola
+  - i/alho
+  - i/manjericão
+  - i/tomilho
 ---
-# Molho de Tomate Assado
+<div style="text-align: center;"> <span style="font-size: 26px;"><b>Molho de Tomate Assado</b></span> </div>
+
+<span class="center"> <center> [Fork Knife Swoon](https://www.forkknifeswoon.com/quick-roasted-cherry-tomato-sauce/) </center></span>
+
+---
+
 ## Ingredientes
-- 1 kg de tomates (tomate)
+- 1 kg de tomates
 - 1/4 cup de azeite
 - 1 cebola *picada*
 - 1 tbsp de alho *picado*
 -  manjericão fresco q.b.
 - 3-4 ramos de tomilho fresco
 - sal e pimenta preta q.b.
+
 ## Preparação
 1. Pré-aquecer o forno a 200 ºC.
 2. Misture os tomates com azeite para os revestir ligeiramente e, em seguida, espalhe-os numa camada uniforme num tabuleiro. Asse durante 25-30 minutos, até os tomates rebentarem e começarem a ficar murchos. 

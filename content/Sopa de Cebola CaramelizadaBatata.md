@@ -3,11 +3,11 @@ title: Sopa de Cebola Caramelizada e Batata
 fonte: Our Salty Kitchen
 tags:
   - sopa
-  - ingrediente/batata
-  - ingrediente/cebola
-  - ingrediente/alho
-  - ingrediente/vinho-branco
-  - ingrediente/tomilho
+  - i/batata
+  - i/cebola
+  - i/alho
+  - i/vinho-branco
+  - i/tomilho
 ---
 
 > [!info] 
