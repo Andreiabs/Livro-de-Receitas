@@ -14,6 +14,8 @@ dg-publish: true
 
 <span class="center"> <center> [Our Salty Kitchen](https://oursaltykitchen.com/nourishing-potato-onion-soup/) </center></span>
 
+![foto|200](https://oursaltykitchen.com/wp-content/uploads/2023/02/potato-onion-soup-1.jpg)
+
 ---
 - 2 tbsp manteiga
 - 1 cebola *cortada em fatias finas*
