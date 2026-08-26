@@ -19,8 +19,8 @@ source: manual
 ### Ingredientes
 
 3. [ ] 5 dentes de alho, *descascados*
-4. [ ] 1 tbsp sal 
-5. [ ] 1 cup coentros frescos
+4. [x] 1 tbsp sal 
+5. [x] 1 cup coentros frescos
 
 
 ### Modo de Fazer

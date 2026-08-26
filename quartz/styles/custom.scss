@@ -6,3 +6,10 @@ article img[width] {
   width: auto !important;
   max-width: 100%;
 }
+
+/* Ocultar aliases no cabeçalho e na lista de propriedades */
+.aliases,
+.popover-hint,
+[data-property="aliases"] {
+  display: none !important;
+}
