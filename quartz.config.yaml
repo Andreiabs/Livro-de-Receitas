@@ -163,7 +163,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: false
+    enabled: true
     layout:
       position: right
       priority: 10
@@ -186,7 +186,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 20
@@ -249,21 +249,21 @@ plugins:
     enabled: true
     options: {}
     order: 50
-- source: "@quartz-community/note-properties"
+  - source: "@quartz-community/note-properties"
     enabled: true
     options:
       includeAll: false
       includedProperties:
-        - tags
-      excludedProperties:
-        - aliases
         - description
+        - tags
+        - aliases
+      excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
       language: yaml
     order: 5
     layout:
-      position: afterBody
+      position: beforeBody
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
