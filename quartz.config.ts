@@ -14,7 +14,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pt-PT",
-    baseUrl: "Andreiabs.github.io/Livro-de-Receitas",
+    baseUrl: "andreiabs.github.io/Livro-de-Receitas",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
