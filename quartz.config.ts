@@ -2,7 +2,7 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 5 Configuration
+ * Quartz Configuration
  */
 const config: QuartzConfig = {
   configuration: {
