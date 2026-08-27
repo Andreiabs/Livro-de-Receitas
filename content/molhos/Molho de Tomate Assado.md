@@ -2,13 +2,13 @@
 tags:
   - receita
   - molho
+  - testado
   - i/tomate
   - i/azeite
   - i/cebola
   - i/alho
   - i/manjericão
   - i/tomilho
-  - testado
 categoria: molho
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Molho de Tomate Assado</b></span> </div>
@@ -36,3 +36,12 @@ categoria: molho
 - [ ] Baixe o lume, cubra parcialmente a panela com a tampa (deixando um espaço de cerca de 2,5 cm) e deixe cozer em lume brando durante pelo menos 25 minutos - e até uma hora - mexendo com pouca frequência enquanto o molho cozinha.
 - [ ] Retire a panela do lume e deixe arrefecer durante 10-15 minutos. Triture até o molho atingir a consistência desejada.
 - [ ] Deite o molho em frascos de conserva ou noutros recipientes herméticos.
+
+
+<div style="text-align: center; margin: 35px 0;">
+  <button 
+    onclick="document.querySelectorAll('input[type=checkbox]').forEach(c => c.checked = false)" 
+    style="background: var(--lightgray); color: var(--darkgray); border: 1px solid var(--gray); padding: 8px 18px; border-radius: 8px; cursor: pointer; font-size: 0.85rem; transition: background 0.2s;">
+    🔄 Reiniciar Receita
+  </button>
+</div>

@@ -15,7 +15,7 @@ title: "📖 Livro de Receitas"
 
 ### ⭐ Destaques & Rápidas
 * [[Marinada de Lima e Chili]]
-* [[Marinada de Sriracha e Limão]]
+* [[dddd]]
 
 ---
 
