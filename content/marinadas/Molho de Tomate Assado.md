@@ -9,9 +9,9 @@ tags:
   - i/manjericão
   - i/tomilho
 ---
-<div style="text-align: center;"> <span style="font-size: 26px;"><b>Molho de Tomate Assado</b></span> </div>
+<div style="text-align: center; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Molho de Tomate Assado</b></span> </div>
 
-<span class="center"> <center> [Fork Knife Swoon](https://www.forkknifeswoon.com/quick-roasted-cherry-tomato-sauce/) </center></span>
+<span class="text-align: center; margin-top: 0; margin-bottom: 24px;"> <center> [Fork Knife Swoon](https://www.forkknifeswoon.com/quick-roasted-cherry-tomato-sauce/) </center></span>
 
 ---
 
