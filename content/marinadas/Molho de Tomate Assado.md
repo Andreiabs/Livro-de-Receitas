@@ -15,7 +15,7 @@ categoria: molho
 
 <span class="text-align: center; margin-top: 0; margin-bottom: 24px;"> <center> [Fork Knife Swoon](https://www.forkknifeswoon.com/quick-roasted-cherry-tomato-sauce/) </center></span>
 
-<div style="text-align: center; margin: 30px 0; color: var(--gray); font-size: 0.9rem; letter-spacing: 0.4em;">   ─── ❖ ─── </div>
+<div style="text-align: center; margin: 20px 0; color: var(--gray); font-size: 0.9rem; letter-spacing: 0.4em;">   ─── ❖ ─── </div>
 
 - [ ] 1 kg de tomates
 - [ ] 1/4 cup de azeite
@@ -25,7 +25,7 @@ categoria: molho
 - [ ] 3-4 ramos de tomilho fresco
 - [ ] sal e pimenta preta q.b.
 
-<div style="text-align: center; margin: 30px 0; color: var(--gray); font-size: 0.9rem; letter-spacing: 0.4em;">   ─── ❖ ─── </div>
+<div style="text-align: center; margin: 20px 0; color: var(--gray); font-size: 0.9rem; letter-spacing: 0.4em;">   ─── ❖ ─── </div>
 
 - [ ] Pré-aquecer o forno a 200 ºC.
 - [ ] Misture os tomates com azeite para os revestir ligeiramente e, em seguida, espalhe-os numa camada uniforme num tabuleiro. Asse durante 25-30 minutos, até os tomates rebentarem e começarem a ficar murchos. 
