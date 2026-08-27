@@ -36,3 +36,11 @@ categoria: marinada
 - [ ] Adicione o frango à marinada, certificando-se de que mexe e cobre o frango uniformemente. Deixe marinar durante 2 horas.
 - [ ] Ligue o grelhador, pincele um pouco de azeite na superfície. 
 - [ ] Adicione um pouco do alho, coentros e piripiri da marinada em cima do frango e grelhe-os até ficarem dourados e carbonizados de ambos os lados. Sirva de imediato.
+
+<div style="text-align: center; margin: 35px 0;">
+  <button 
+    onclick="document.querySelectorAll('input[type=checkbox]').forEach(c => c.checked = false)" 
+    style="background: var(--lightgray); color: var(--darkgray); border: 1px solid var(--gray); padding: 8px 18px; border-radius: 8px; cursor: pointer; font-size: 0.85rem; transition: background 0.2s;">
+    🔄 Reiniciar Receita
+  </button>
+</div>
