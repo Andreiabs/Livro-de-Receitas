@@ -3,13 +3,13 @@ tags:
   - receita
   - sopa
   - testado
-  - i/manteiga
+  - i/Manteiga
   - i/Cebola
   - i/Alho
   - i/batata
   - i/caldocarne
-  - i/água
-  - i/vinhobranco
+  - i/Água
+  - i/VinhoBranco
   - i/Sal
   - i/Pimenta
   - i/alecrim

@@ -3,7 +3,7 @@ tags:
   - receita
   - molho
   - testado
-  - i/tomate
+  - i/Tomate
   - i/Azeite
   - i/Cebola
   - i/Alho

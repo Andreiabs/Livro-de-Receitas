@@ -8,7 +8,7 @@ tags:
   - i/Canela
   - i/ExtratoBaunilha
   - i/Sal
-  - i/água
+  - i/Água
 categoria: crackers
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Barrinhas energéticas de frutos secos</b></span> </div>

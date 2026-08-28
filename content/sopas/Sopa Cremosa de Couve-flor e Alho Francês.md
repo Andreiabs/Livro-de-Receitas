@@ -3,7 +3,7 @@ tags:
   - receita
   - sopa
   - testado
-  - i/couveflor
+  - i/CouveFlor
   - i/alhofrances
   - i/batata
   - i/Alho
@@ -12,7 +12,7 @@ tags:
   - i/Pimenta
   - i/piripiri
   - i/CaldoLegumes
-  - i/leite
+  - i/Leite
 categoria: sopa
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Sopa Cremosa de Couve-flor e Alho Francês</b></span> </div>

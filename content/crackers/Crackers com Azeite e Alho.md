@@ -3,13 +3,13 @@ tags:
   - receita
   - crackers
   - testado
-  - i/farinha
-  - i/fermento
+  - i/Farinha
+  - i/Fermento
   - i/Alho
   - i/Sal
   - i/Pimenta
   - i/Azeite
-  - i/leite
+  - i/Leite
 categoria: crackers
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Crackers com Azeite e Alho</b></span> </div>

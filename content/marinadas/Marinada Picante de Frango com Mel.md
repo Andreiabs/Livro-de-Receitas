@@ -12,7 +12,7 @@ tags:
   - i/vinagresidra
   - i/piripiri
   - i/amidomilho
-  - i/água
+  - i/Água
 categoria: marinada
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Marinada Picante de Frango com Mel</b></span> </div>

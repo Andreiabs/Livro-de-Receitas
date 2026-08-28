@@ -7,7 +7,7 @@ tags:
   - i/alhofrances
   - i/Sal
   - i/Alho
-  - i/vinhobranco
+  - i/VinhoBranco
   - i/CaldoLegumes
   - i/batata
   - i/feijaobranco

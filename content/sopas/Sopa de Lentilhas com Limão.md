@@ -5,7 +5,7 @@ tags:
   - testado
   - i/Azeite
   - i/Cebola
-  - i/cenoura
+  - i/Cenoura
   - i/Alho
   - i/CaldoLegumes
   - i/lentilhas
