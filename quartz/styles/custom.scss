@@ -7,3 +7,35 @@ article img[width] {
   max-width: 100%;
 }
 
+/* Riscar itens de listas normais e numeradas ao marcar a caixa */
+ul li:has(input[type="checkbox"]:checked),
+ol li:has(input[type="checkbox"]:checked) {
+  text-decoration: line-through;
+  opacity: 0.55;
+  transition: all 0.2s ease-in-out;
+}
+
+/* Manter a checkbox clicável e com cursor interativo */
+li.task-list-item input[type="checkbox"],
+li input[type="checkbox"] {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+}
+
+@media print {
+  /* Ocultar elementos desnecessários na folha de impressão */
+  header, footer, nav, aside,
+  .sidebar, .left, .right, .graph, .toc, .backlinks,
+  .search, .darkmode, .tags, button, script {
+    display: none !important;
+  }
+
+  /* Garantir fundo branco e texto preto limpo */
+  body, article, .page-header {
+    background: #fff !important;
+    color: #000 !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+}
