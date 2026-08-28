@@ -6,14 +6,14 @@ tags:
   - i/Manteiga
   - i/Cebola
   - i/Alho
-  - i/batata
+  - i/Batata
   - i/caldocarne
   - i/Água
   - i/VinhoBranco
   - i/Sal
   - i/Pimenta
   - i/alecrim
-  - i/tomilho
+  - i/Tomilho
   - i/Limão
   - i/louro
   - i/Azeite

@@ -3,7 +3,7 @@ tags:
   - receita
   - prato-principal
   - testado
-  - i/batata
+  - i/Batata
   - i/CouveFlor
   - i/Atum
   - i/Ovo

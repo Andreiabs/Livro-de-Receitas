@@ -8,7 +8,7 @@ tags:
   - i/Cebola
   - i/Alho
   - i/Manjericão
-  - i/tomilho
+  - i/Tomilho
   - i/Pimenta
 categoria: molho
 ---

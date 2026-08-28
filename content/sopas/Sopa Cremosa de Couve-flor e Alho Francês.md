@@ -5,7 +5,7 @@ tags:
   - testado
   - i/CouveFlor
   - i/alhofrances
-  - i/batata
+  - i/Batata
   - i/Alho
   - i/Azeite
   - i/Sal

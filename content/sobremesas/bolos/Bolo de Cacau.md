@@ -6,7 +6,7 @@ tags:
   - sobremesa
   - i/Farinha
   - i/Açúcar
-  - i/Cacau
+  - i/CacauPó
   - i/Sal
   - i/Fermento
   - i/BicabornatoDeSódio

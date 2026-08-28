@@ -9,8 +9,8 @@ tags:
   - i/Alho
   - i/VinhoBranco
   - i/CaldoLegumes
-  - i/batata
-  - i/feijaobranco
+  - i/Batata
+  - i/FeijãoBranco
   - i/Limão
   - i/Mostarda
   - i/Pimenta
