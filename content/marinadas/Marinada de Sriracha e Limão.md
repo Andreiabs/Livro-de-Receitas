@@ -12,6 +12,7 @@ tags:
   - i/alho
   - i/sal
   - i/coentros
+  - i/pimenta
 categoria: marinada
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Marinada de Sriracha e Limão</b></span> </div>

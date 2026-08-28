@@ -11,6 +11,7 @@ tags:
   - i/alho
   - i/sal
   - i/chili
+  - i/pimenta
 categoria: marinada
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Marinada de Lima e Chili</b></span> </div>
@@ -36,5 +37,8 @@ categoria: marinada
 - [ ] Adicione o frango à marinada, certificando-se de que mexe e cobre o frango uniformemente. Deixe marinar durante 2 horas.
 - [ ] Ligue o grelhador, pincele um pouco de azeite na superfície. 
 - [ ] Adicione um pouco do alho, coentros e piripiri da marinada em cima do frango e grelhe-os até ficarem dourados e carbonizados de ambos os lados. Sirva de imediato.
+
+<div style="text-align: center; margin: 20px 0; color: var(--gray); font-size: 0.9rem; letter-spacing: 0.4em;">   ─── ❖ ─── </div>
+
 
 ![[Botoes]]

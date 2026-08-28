@@ -40,16 +40,19 @@ li input[type="checkbox"] {
   }
 }
 
-/* Ocultar cabeçalho, link de origem e barra lateral em notas embebidas */
+/* Ocultar cabeçalhos, títulos e links de origem em transclusões */
 .transclude {
   border-left: none !important;
   padding: 0 !important;
   margin: 0 !important;
 
+  h1, h2, h3, h4, h5, h6,
+  .article-title,
   .transclude-title,
+  .transclude-header,
   .transclude-link,
-  a[href*="botoes"],
-  a[href*="Botoes"] {
+  a.internal[href*="botoes"],
+  a.internal[href*="Botoes"] {
     display: none !important;
   }
 }
