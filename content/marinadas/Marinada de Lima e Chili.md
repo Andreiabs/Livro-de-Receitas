@@ -4,14 +4,14 @@ tags:
   - marinada
   - testado
   - i/lima
-  - i/azeite
+  - i/Azeite
   - i/coentros
   - i/piripiri
-  - i/mel
-  - i/alho
-  - i/sal
+  - i/Mel
+  - i/Alho
+  - i/Sal
   - i/chili
-  - i/pimenta
+  - i/Pimenta
 categoria: marinada
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Marinada de Lima e Chili</b></span> </div>

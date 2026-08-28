@@ -4,19 +4,19 @@ tags:
   - sopa
   - testado
   - i/manteiga
-  - i/cebola
-  - i/alho
+  - i/Cebola
+  - i/Alho
   - i/batata
   - i/caldocarne
   - i/água
   - i/vinhobranco
-  - i/sal
-  - i/pimenta
+  - i/Sal
+  - i/Pimenta
   - i/alecrim
   - i/tomilho
-  - i/limão
+  - i/Limão
   - i/louro
-  - i/azeite
+  - i/Azeite
 categoria: sopa
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Sopa de Cebola Caramelizada e Batata</b></span> </div>

@@ -3,12 +3,12 @@ tags:
   - receita
   - marinada
   - testado
-  - i/azeite
-  - i/mel
-  - i/alho
+  - i/Azeite
+  - i/Mel
+  - i/Alho
   - i/chili
   - i/galinha
-  - i/sal
+  - i/Sal
   - i/vinagresidra
   - i/piripiri
   - i/amidomilho

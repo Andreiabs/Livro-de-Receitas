@@ -3,17 +3,17 @@ tags:
   - receita
   - sopa
   - testado
-  - i/azeite
+  - i/Azeite
   - i/alhofrances
-  - i/sal
-  - i/alho
+  - i/Sal
+  - i/Alho
   - i/vinhobranco
-  - i/caldolegumes
+  - i/CaldoLegumes
   - i/batata
   - i/feijaobranco
-  - i/limão
-  - i/mostarda
-  - i/pimenta
+  - i/Limão
+  - i/Mostarda
+  - i/Pimenta
 categoria: sopa
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Sopa de Batata e Alho Francês</b></span> </div>

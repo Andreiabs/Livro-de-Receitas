@@ -6,12 +6,12 @@ tags:
   - i/couveflor
   - i/alhofrances
   - i/batata
-  - i/alho
-  - i/azeite
-  - i/sal
-  - i/pimenta
+  - i/Alho
+  - i/Azeite
+  - i/Sal
+  - i/Pimenta
   - i/piripiri
-  - i/caldolegumes
+  - i/CaldoLegumes
   - i/leite
 categoria: sopa
 ---

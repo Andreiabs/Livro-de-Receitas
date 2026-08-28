@@ -4,12 +4,12 @@ tags:
   - molho
   - testado
   - i/tomate
-  - i/azeite
-  - i/cebola
-  - i/alho
-  - i/manjericão
+  - i/Azeite
+  - i/Cebola
+  - i/Alho
+  - i/Manjericão
   - i/tomilho
-  - i/pimenta
+  - i/Pimenta
 categoria: molho
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Molho de Tomate Assado</b></span> </div>

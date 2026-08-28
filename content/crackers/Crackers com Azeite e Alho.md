@@ -5,10 +5,10 @@ tags:
   - testado
   - i/farinha
   - i/fermento
-  - i/alho
-  - i/sal
-  - i/pimenta
-  - i/azeite
+  - i/Alho
+  - i/Sal
+  - i/Pimenta
+  - i/Azeite
   - i/leite
 categoria: crackers
 ---

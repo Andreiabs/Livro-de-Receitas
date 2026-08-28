@@ -9,8 +9,8 @@ tags:
   - i/couveflor
   - i/queijoparmesao
   - i/nozmoscada
-  - i/sal
-  - i/pimenta
+  - i/Sal
+  - i/Pimenta
 categoria: molho
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Molho Bechamel</b></span> </div>

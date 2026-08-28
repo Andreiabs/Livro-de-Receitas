@@ -4,15 +4,15 @@ tags:
   - marinada
   - testado
   - i/gengibre
-  - i/limão
-  - i/molhosoja
-  - i/mel
+  - i/Limão
+  - i/MolhoSoja
+  - i/Mel
   - i/sriracha
-  - i/azeite
-  - i/alho
-  - i/sal
+  - i/Azeite
+  - i/Alho
+  - i/Sal
   - i/coentros
-  - i/pimenta
+  - i/Pimenta
 categoria: marinada
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Marinada de Sriracha e Limão</b></span> </div>

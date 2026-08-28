@@ -3,17 +3,17 @@ tags:
   - receita
   - sopa
   - testado
-  - i/azeite
-  - i/cebola
+  - i/Azeite
+  - i/Cebola
   - i/cenoura
-  - i/alho
-  - i/caldolegumes
+  - i/Alho
+  - i/CaldoLegumes
   - i/lentilhas
   - i/cominhos
   - i/chili
-  - i/limão
-  - i/sal
-  - i/pimenta
+  - i/Limão
+  - i/Sal
+  - i/Pimenta
 categoria: sopa
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Sopa de Lentilhas com Limão</b></span> </div>

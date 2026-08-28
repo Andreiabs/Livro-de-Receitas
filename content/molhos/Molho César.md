@@ -4,13 +4,13 @@ tags:
   - molho
   - testado
   - i/maionese
-  - i/mostarda
+  - i/Mostarda
   - i/molhoingles
-  - i/alho
-  - i/limão
-  - i/sal
-  - i/pimenta
-  - i/azeite
+  - i/Alho
+  - i/Limão
+  - i/Sal
+  - i/Pimenta
+  - i/Azeite
   - i/queijoparmesao
 categoria: molho
 ---

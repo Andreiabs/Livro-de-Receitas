@@ -3,18 +3,18 @@ tags:
   - receita
   - molho
   - testado
-  - i/cebola
-  - i/alho
+  - i/Cebola
+  - i/Alho
   - i/gengibre
   - i/ketchup
-  - i/mostarda
+  - i/Mostarda
   - i/vinagrebalsamico
-  - i/molhosoja
+  - i/MolhoSoja
   - i/whisky
   - i/paprikafumada
   - i/cominhos
   - i/açucarmascavado
-  - i/sal
+  - i/Sal
   - i/molhoingles
 categoria: molho
 ---

@@ -3,22 +3,22 @@ tags:
   - receita
   - prato-principal
   - testado
-  - i/azeite
+  - i/Azeite
   - i/carnemoida
-  - i/cebola
-  - i/alho
+  - i/Cebola
+  - i/Alho
   - i/gengibre
   - i/chili
-  - i/oleosesamo
-  - i/molhosoja
-  - i/molhosweetchili
-  - i/mel
+  - i/ÓleoSésamo
+  - i/MolhoSoja
+  - i/MolhoSweetChili
+  - i/Mel
   - i/vinagreArroz
 categoria: prato-principal
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Carne moída com gengibre</b></span> </div>
 
-<span class="text-align: center; margin-top: 0; margin-bottom: 24px;"> <center> [Hungry Healthy Happy]((https://hungryhealthyhappy.com/10-minute-sticky-ginger-beef/) </center></span>
+<span class="text-align: center; margin-top: 0; margin-bottom: 24px;"> <center> [Hungry Healthy Happy](https://hungryhealthyhappy.com/10-minute-sticky-ginger-beef/) </center></span>
 
 <div style="text-align: center; margin: 30px 0; color: var(--gray); font-size: 0.9rem; letter-spacing: 0.4em;">   ─── ❖ ─── </div>
 
