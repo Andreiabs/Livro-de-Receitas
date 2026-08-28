@@ -39,3 +39,17 @@ li input[type="checkbox"] {
     padding: 0 !important;
   }
 }
+
+/* Ocultar cabeçalho, link de origem e barra lateral em notas embebidas */
+.transclude {
+  border-left: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+
+  .transclude-title,
+  .transclude-link,
+  a[href*="botoes"],
+  a[href*="Botoes"] {
+    display: none !important;
+  }
+}
