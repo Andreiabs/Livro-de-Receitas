@@ -13,7 +13,7 @@ tags:
   - i/whisky
   - i/paprikafumada
   - i/cominhos
-  - i/açucarmascavado
+  - i/AçúcarMascavado
   - i/Sal
   - i/molhoingles
 categoria: molho
