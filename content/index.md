@@ -8,10 +8,13 @@ title: "📖 Livro de Receitas"
 
 ### 📂 Categorias
 
-* 🥫 **[Molhos](/tags/molho)**
-* 🍲 **[Pratos Principais](/tags/prato-principal)**
 * 🥗 **[Acompanhamentos](/tags/acompanhamento)**
+* 🍘 **[Crackers](/tags/crackers)**
+* 🍲 **[Pratos Principais](/tags/prato-principal)**
+* 🫙 **[Marinadas](/tags/marinada)**
+* 🥫 **[Molhos](/tags/molho)**
 * 🍰 **[Sobremesas](/tags/sobremesa)**
+* 🍲 **[Sopas](/tags/sopa)**
 
 
 ─── ❖ ───
