@@ -7,7 +7,7 @@ tags:
   - i/Farinha
   - i/Leite
   - i/CouveFlor
-  - i/QueijoParmesao
+  - i/QueijoParmesão
   - i/NozMoscada
   - i/Sal
   - i/Pimenta

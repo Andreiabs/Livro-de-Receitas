@@ -10,7 +10,7 @@ tags:
   - i/CaldoLegumes
   - i/lentilhas
   - i/cominhos
-  - i/chili
+  - i/Chili
   - i/Limão
   - i/Sal
   - i/Pimenta

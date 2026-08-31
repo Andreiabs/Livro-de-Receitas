@@ -8,12 +8,13 @@ tags:
   - i/Cebola
   - i/Alho
   - i/gengibre
-  - i/chili
+  - i/Chili
   - i/ÓleoSésamo
   - i/MolhoSoja
   - i/MolhoSweetChili
   - i/Mel
-  - i/vinagreArroz
+  - i/VinagreArroz
+  - i/Carne
 categoria: prato principal
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Carne moída com gengibre</b></span> </div>

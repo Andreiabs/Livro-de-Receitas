@@ -21,6 +21,7 @@ tags:
   - i/Hortelã
   - i/Cebolinho
   - por-testar
+  - vegetariano
 categoria: prato principal
 ---
 

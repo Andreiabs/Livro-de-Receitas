@@ -11,10 +11,11 @@ tags:
   - i/Tomilho
   - i/PolpaTomate
   - i/VinhoTinto
-  - i/louro
+  - i/Louro
   - i/Sal
   - i/Pimenta
   - i/Azeite
+  - i/Carne
 categoria: prato principal
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Ossobuco Estufado em Vinho Tinto</b></span> </div>

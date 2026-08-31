@@ -6,7 +6,7 @@ tags:
   - i/Azeite
   - i/Mel
   - i/Alho
-  - i/chili
+  - i/Chili
   - i/galinha
   - i/Sal
   - i/vinagresidra

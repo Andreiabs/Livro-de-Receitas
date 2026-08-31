@@ -10,7 +10,7 @@ tags:
   - i/Mel
   - i/Alho
   - i/Sal
-  - i/chili
+  - i/Chili
   - i/Pimenta
 categoria: marinada
 ---

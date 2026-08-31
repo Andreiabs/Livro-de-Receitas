@@ -15,11 +15,11 @@
 <div id="lista-ingredientes">
 
 ### 🥩 Carnes, Peixes e Ovos
-* [Frango](/tags/i/frango)
-* [Carne de Vaca](/tags/i/carnevaca)
-* [Carne de Porco](/tags/i/carneporco)
+* [Frango](/tags/i/galinha)
+* [Carne de Vaca](/tags/i/bovino)
+* [Carne de Porco](/tags/i/porco)
 * [Atum / Salmão](/tags/i/peixe)
-* [Ovos](/tags/i/ovos)
+* [Ovos](/tags/i/ovo)
 
 ---
 

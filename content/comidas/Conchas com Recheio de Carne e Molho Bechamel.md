@@ -15,12 +15,13 @@ tags:
   - i/Açúcar
   - i/Pimenta
   - i/Canela
-  - i/louro
+  - i/Louro
   - i/PimentaJamaica
   - i/Salsa
   - i/Óregãos
   - i/Massa
   - i/Louro
+  - i/Carne
 categoria: prato principal
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Conchas com Recheio de Carne e Molho Bechamel</b></span> </div>

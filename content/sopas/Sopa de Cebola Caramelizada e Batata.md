@@ -15,7 +15,7 @@ tags:
   - i/alecrim
   - i/Tomilho
   - i/Limão
-  - i/louro
+  - i/Louro
   - i/Azeite
 categoria: sopa
 ---

@@ -10,11 +10,12 @@ tags:
   - i/AzeitonasPretas
   - i/AzeitonasVerdes
   - i/Alcaparras
-  - i/chili
+  - i/Chili
   - i/Manjericão
   - i/Salsa
   - i/Limão
   - i/Pimenta
+  - i/Peixe
 categoria: prato principal
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Lula Salteada à Puttanesca</b></span> </div>

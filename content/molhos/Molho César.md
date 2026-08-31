@@ -11,7 +11,7 @@ tags:
   - i/Sal
   - i/Pimenta
   - i/Azeite
-  - i/QueijoParmesao
+  - i/QueijoParmesão
 categoria: molho
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Molho César</b></span> </div>
