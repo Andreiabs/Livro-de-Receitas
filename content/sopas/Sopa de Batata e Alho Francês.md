@@ -4,7 +4,7 @@ tags:
   - sopa
   - testado
   - i/Azeite
-  - i/alhofrances
+  - i/AlhoFrancês
   - i/Sal
   - i/Alho
   - i/VinhoBranco

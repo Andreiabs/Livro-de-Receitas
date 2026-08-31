@@ -3,7 +3,7 @@ tags:
   - receita
   - molho
   - testado
-  - i/maionese
+  - i/Maionese
   - i/Mostarda
   - i/molhoingles
   - i/Alho

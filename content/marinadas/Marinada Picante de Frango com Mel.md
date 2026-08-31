@@ -7,10 +7,10 @@ tags:
   - i/Mel
   - i/Alho
   - i/Chili
-  - i/galinha
+  - i/Galinha
   - i/Sal
   - i/vinagresidra
-  - i/piripiri
+  - i/Piripiri
   - i/amidomilho
   - i/Água
 categoria: marinada

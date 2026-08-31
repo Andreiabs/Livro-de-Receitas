@@ -11,7 +11,7 @@ tags:
   - i/vinagrebalsamico
   - i/MolhoSoja
   - i/whisky
-  - i/paprikafumada
+  - i/PaprikaFumada
   - i/cominhos
   - i/AçúcarMascavado
   - i/Sal

@@ -8,7 +8,7 @@ tags:
   - i/Alho
   - i/Alcaparras
   - i/Anchovas
-  - i/piripiri
+  - i/Piripiri
   - i/Tomate
   - i/AzeitonasPretas
   - i/Salsa

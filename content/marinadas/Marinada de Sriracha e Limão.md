@@ -7,7 +7,7 @@ tags:
   - i/Limão
   - i/MolhoSoja
   - i/Mel
-  - i/sriracha
+  - i/Sriracha
   - i/Azeite
   - i/Alho
   - i/Sal

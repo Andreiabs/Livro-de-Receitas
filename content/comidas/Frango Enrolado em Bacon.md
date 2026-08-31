@@ -3,15 +3,16 @@ tags:
   - receita
   - testado
   - prato-principal
-  - i/galinha
+  - i/Galinha
   - i/Bacon
   - i/AçúcarMascavado
-  - i/paprikafumada
+  - i/PaprikaFumada
   - i/AlhoPó
   - i/CebolaPó
   - i/Pimenta
   - i/Sal
   - i/Salsa
+  - i/Carne
 categoria: prato principal
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Frango Enrolado em Bacon</b></span> </div>

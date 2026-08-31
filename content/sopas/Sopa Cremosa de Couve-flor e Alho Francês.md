@@ -4,13 +4,13 @@ tags:
   - sopa
   - testado
   - i/CouveFlor
-  - i/alhofrances
+  - i/AlhoFrancês
   - i/Batata
   - i/Alho
   - i/Azeite
   - i/Sal
   - i/Pimenta
-  - i/piripiri
+  - i/Piripiri
   - i/CaldoLegumes
   - i/Leite
 categoria: sopa

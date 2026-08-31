@@ -6,7 +6,7 @@ tags:
   - i/lima
   - i/Azeite
   - i/coentros
-  - i/piripiri
+  - i/Piripiri
   - i/Mel
   - i/Alho
   - i/Sal
