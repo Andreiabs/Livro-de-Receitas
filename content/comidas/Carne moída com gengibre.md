@@ -4,7 +4,7 @@ tags:
   - prato-principal
   - testado
   - i/Azeite
-  - i/carnemoida
+  - i/CarneMoida
   - i/Cebola
   - i/Alho
   - i/gengibre
