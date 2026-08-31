@@ -56,3 +56,15 @@ li input[type="checkbox"] {
     display: none !important;
   }
 }
+
+
+/* Ocultar etiquetas nas páginas de listagem de tags */
+.page-listing ul.tags,
+.page-listing .tags,
+.page-listing a.tag-link,
+.section-ul .tags,
+.section-li .tags,
+.section-li a.tag-link,
+.section-li ul.tags {
+  display: none !important;
+}
