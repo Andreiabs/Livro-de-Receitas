@@ -7,7 +7,7 @@ tags:
   - i/CouveFlor
   - i/Atum
   - i/Ovo
-categoria: prato-principal
+categoria: prato principal
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Salada de Atum e Batata</b></span> </div>
 

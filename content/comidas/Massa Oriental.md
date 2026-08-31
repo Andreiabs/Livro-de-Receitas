@@ -1,7 +1,6 @@
 ---
 tags:
   - receita
-  - testado
   - prato-principal
   - i/Massa
   - i/ÓleoAmendoim
@@ -21,7 +20,8 @@ tags:
   - i/coentros
   - i/Hortelã
   - i/Cebolinho
-categoria: prato-principal
+  - por-testar
+categoria: prato principal
 ---
 
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Massa Oriental</b></span> </div>
