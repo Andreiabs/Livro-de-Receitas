@@ -20,7 +20,6 @@ tags:
   - i/Salsa
   - i/Óregãos
   - i/Massa
-  - i/Louro
   - i/Carne
 categoria: prato principal
 ---

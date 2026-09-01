@@ -13,6 +13,7 @@ tags:
   - i/QueijoParmesão
   - i/Cebolinho
   - i/Pão
+  - vegetariano
 categoria: prato principal
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Ovos estrelados com cogumelos, parmesão e pão torrado</b></span> </div>

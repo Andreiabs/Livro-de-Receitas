@@ -10,6 +10,7 @@ title: "📖 Livro de Receitas"
 
 * 🥗 **[Acompanhamentos](/tags/acompanhamento)**
 * 🍘 **[Crackers](/tags/crackers)**
+* 🫕 **[Entradas](/tags/entrada)**
 * 🍲 **[Pratos Principais](/tags/prato-principal)**
 * 🫙 **[Marinadas](/tags/marinada)**
 * 🥫 **[Molhos](/tags/molho)**
