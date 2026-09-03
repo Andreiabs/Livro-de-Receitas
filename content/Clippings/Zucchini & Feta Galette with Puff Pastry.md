@@ -1,9 +1,9 @@
 ---
-title: "Zucchini & Feta Galette with Puff Pastry"
 tags:
-  - "Appetizers"
-tags:
-categoria: 
+  - receita
+  - molho
+  - testado
+categoria: molho
 ---
 <div style="text-align: center; margin-top: 24px; margin-bottom: 4px;"> <span style="font-size: 26px;"><b>Zucchini & Feta Galette with Puff Pastry</b></span> </div>
 
