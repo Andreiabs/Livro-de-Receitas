@@ -5,7 +5,7 @@ tags:
   - testado
   - i/Cebola
   - i/Alho
-  - i/gengibre
+  - i/Gengibre
   - i/ketchup
   - i/Mostarda
   - i/vinagrebalsamico

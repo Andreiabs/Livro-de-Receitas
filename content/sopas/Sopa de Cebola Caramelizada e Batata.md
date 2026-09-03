@@ -12,7 +12,7 @@ tags:
   - i/VinhoBranco
   - i/Sal
   - i/Pimenta
-  - i/alecrim
+  - i/Alecrim
   - i/Tomilho
   - i/Limão
   - i/Louro

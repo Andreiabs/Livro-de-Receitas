@@ -11,7 +11,7 @@ tags:
   - i/Pimento
   - i/Tomate
   - i/LeiteCoco
-  - i/gengibre
+  - i/Gengibre
   - i/CarilPó
   - i/Sal
   - i/Pimenta

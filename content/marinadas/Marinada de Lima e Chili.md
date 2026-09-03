@@ -3,7 +3,7 @@ tags:
   - receita
   - marinada
   - testado
-  - i/lima
+  - i/Lima
   - i/Azeite
   - i/coentros
   - i/Piripiri

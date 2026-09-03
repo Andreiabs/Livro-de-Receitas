@@ -7,7 +7,7 @@ tags:
   - i/CarneMoida
   - i/Cebola
   - i/Alho
-  - i/gengibre
+  - i/Gengibre
   - i/Chili
   - i/ÓleoSésamo
   - i/MolhoSoja

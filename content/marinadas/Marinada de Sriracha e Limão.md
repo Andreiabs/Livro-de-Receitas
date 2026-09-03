@@ -3,7 +3,7 @@ tags:
   - receita
   - marinada
   - testado
-  - i/gengibre
+  - i/Gengibre
   - i/Limão
   - i/MolhoSoja
   - i/Mel
